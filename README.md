@@ -9,6 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: MY BEAUTY (is) FULL 
-* Student ID: ID123
+* Student Name: Tran Dinh Lan 
+* Student ID: BI11-138
+* Group: G5
 
